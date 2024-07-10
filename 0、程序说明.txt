@@ -1,0 +1,2 @@
+Linux  python3.8
+package:numpy,matplotlib,pandas,pytorch,seaborn,autogluon(该库必须在linux或mac下)
